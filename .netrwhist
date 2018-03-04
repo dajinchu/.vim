@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/c/Users/dajin/Programming/one-secondv2/views'
+let g:netrw_dirhist_2='/c/Users/dajin/Programming/bc18/bc18-scaffold/huskies-worker-optimize-healers'
+let g:netrw_dirhist_3='/c/Users/dajin/Programming/word-similarity'
+let g:netrw_dirhist_4='/c/Users/dajin/Programming/dog-detective/.git'
+let g:netrw_dirhist_5='/c/Users/dajin/Programming/word-similarity'
+let g:netrw_dirhist_6='/c/Users/dajin/.vim/bundle'
+let g:netrw_dirhist_7='/c/Users/dajin/Programming/EECE2160/lab2'
