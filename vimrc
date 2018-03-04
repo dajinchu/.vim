@@ -43,4 +43,4 @@ let g:syntastic_check_on_wq = 0
 let g:syntastic_enable_signs=1
 
 " NERDTree"
-autocmd vimenter * NERDTree
+autocmd VimEnter * NERDTree | wincmd p
